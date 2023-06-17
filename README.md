@@ -9,3 +9,4 @@ NON-SMALL CELL LUNG CANCER
 
 Here, the Resnet 50 model is more precise.
 
+dataset link :- https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
